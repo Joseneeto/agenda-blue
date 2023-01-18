@@ -1,4 +1,4 @@
-<h1 align="center">Projeto CRUD agenda de contatos</h1>
+<h1 align="center">CRUD agenda de contatos</h1>
 
 Criação de um crud para gerenciamento de cadastro de uma agenda.
 
