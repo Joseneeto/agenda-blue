@@ -1,6 +1,6 @@
 <h1 align="center">CRUD agenda de contatos</h1>
 
-Criação de um crud com dois frameworks diferentes consumindo a mesma API para gerenciamento de cadastro de uma agenda.
+Criação de um crud com dois frameworks frontend diferentes consumindo a mesma API para gerenciamento de cadastro de uma agenda.
 
 ## 🛠️ Ferramentas e Tecnologias
 
