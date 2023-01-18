@@ -83,6 +83,10 @@ Antes de iniciar a aplicação é necessário a instalação do banco de dados M
 - URL local da aplicação:
 
   ```acesse http://localhost:8080```
+  
+- URL Swagger da aplicação:
+
+  ```acesse http://localhost:8080/swagger-ui.html#//```
 
 
 ## 🚉 Rotas da API
